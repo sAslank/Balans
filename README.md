@@ -12,8 +12,9 @@
 
 
 
-1. ![alt text](https://github.com/sAslank/Rezervcopy/blob/main/img/аа2.jpg)
-2. ![alt text](https://github.com/sAslank/Rezervcopy/blob/main/img/аа1.jpg)
+1. ![alt text](https://github.com/sAslank/Balans/blob/main/img/1х1.jpg)
+2. ![alt text](https://github.com/sAslank/Balans/blob/main/img/1х2.jpg)
+3. ![alt text](https://github.com/sAslank/Balans/blob/main/img/1x4.jpg)
 
  **************************************************************************
 
@@ -24,8 +25,6 @@
 * HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
 * На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
-1. ![alt text](https://github.com/sAslank/Rezervcopy/blob/main/img/вв4.jpg)
+[🛠️Файл haproxy](https://github.com/sAslank/Balans/blob/main/file/dz2haproxy.cfg.txt)
 
-2. ![alt text](https://github.com/sAslank/Rezervcopy/blob/main/img/вв3.jpg)
-
-3. ![alt text](https://github.com/sAslank/Rezervcopy/blob/main/img/вв2.jpg)
+1. ![alt text](https://github.com/sAslank/Balans/blob/main/img/2x2.jpg)
