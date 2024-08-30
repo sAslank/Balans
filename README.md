@@ -7,7 +7,8 @@
 * Установите и настройте HAProxy, воспользуйтесь материалами к лекции по [ссылке](https://github.com/netology-code/sflt-homeworks/tree/main/2)
 * Настройте балансировку Round-robin на 4 уровне.
 * На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
-:![image](https://github.com/sAslank/Balans/blob/main/file/dz1haproxy.cfg.txt)
+![image](https://github.com/user-attachments/assets/d09f4357-fd48-4ac2-82e8-af0c9335156f)
+
 
 1. ![alt text](https://github.com/sAslank/Rezervcopy/blob/main/img/аа2.jpg)
 2. ![alt text](https://github.com/sAslank/Rezervcopy/blob/main/img/аа1.jpg)
